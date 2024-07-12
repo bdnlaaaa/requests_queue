@@ -1,0 +1,4 @@
+/x64/
+/requests_queue/x64/
+/requests_queue/*.user
+.vs/
