@@ -1,7 +1,7 @@
 ﻿#include "Manager.h"
 #include <conio.h>
 #include <iostream>
-
+asd
 int
 main()
 {
